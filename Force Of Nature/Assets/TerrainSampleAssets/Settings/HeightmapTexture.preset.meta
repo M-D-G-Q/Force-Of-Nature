@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3673edd4bef6add4aaf606245092507c
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2655988077585873504
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 20005965
+  packageName: "Terrain Sample Asset Pack \u5730\u5F62\u793A\u4F8B\u8D44\u6E90\u5305"
+  packageVersion: 2.0.1
+  assetPath: Assets/TerrainSampleAssets/Settings/HeightmapTexture.preset
+  uploadId: 0

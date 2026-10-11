@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 387141d2bd04a10459d9a306ca45434f
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 20005965
+  packageName: "Terrain Sample Asset Pack \u5730\u5F62\u793A\u4F8B\u8D44\u6E90\u5305"
+  packageVersion: 2.0.1
+  assetPath: Assets/TerrainSampleAssets/TerrainBrushes/Terrainstamp_Plateau03_Brush.brush
+  uploadId: 0

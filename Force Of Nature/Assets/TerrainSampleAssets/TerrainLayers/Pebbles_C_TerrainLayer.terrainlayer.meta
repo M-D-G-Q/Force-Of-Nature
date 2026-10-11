@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a579e897aa6ba004ab0e04fa3053263a
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 8574412962073106934
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 20005965
+  packageName: "Terrain Sample Asset Pack \u5730\u5F62\u793A\u4F8B\u8D44\u6E90\u5305"
+  packageVersion: 2.0.1
+  assetPath: Assets/TerrainSampleAssets/TerrainLayers/Pebbles_C_TerrainLayer.terrainlayer
+  uploadId: 0

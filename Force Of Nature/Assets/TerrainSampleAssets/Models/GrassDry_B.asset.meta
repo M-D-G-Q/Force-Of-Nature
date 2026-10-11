@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 34620cf8cdb76ba4b9af2acb627f7846
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 4300000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 20005965
+  packageName: "Terrain Sample Asset Pack \u5730\u5F62\u793A\u4F8B\u8D44\u6E90\u5305"
+  packageVersion: 2.0.1
+  assetPath: Assets/TerrainSampleAssets/Models/GrassDry_B.asset
+  uploadId: 0
